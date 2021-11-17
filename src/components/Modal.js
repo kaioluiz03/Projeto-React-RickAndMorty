@@ -1,10 +1,10 @@
-import React from "react"
-import "../styles/Modal.css"
+import React from "react";
+import "../styles/Modal.css";
 import { Link } from "react-router-dom";
 
-const Modal = ({location, personagem, event1,}) => {
+const Modal = ({location, personagem, event1}) => {
 
-    console.log(personagem)
+    // console.log(personagem)
 
     return (
         

@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebdeea3f.chunk.css",
+    "main.js": "/static/js/main.26d44233.chunk.js",
+    "main.js.map": "/static/js/main.26d44233.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5d9cc21.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5d9cc21.js.map",
+    "static/js/2.f1c023c0.chunk.js": "/static/js/2.f1c023c0.chunk.js",
+    "static/js/2.f1c023c0.chunk.js.map": "/static/js/2.f1c023c0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ebdeea3f.chunk.css.map": "/static/css/main.ebdeea3f.chunk.css.map",
+    "static/js/2.f1c023c0.chunk.js.LICENSE.txt": "/static/js/2.f1c023c0.chunk.js.LICENSE.txt",
+    "static/media/Arma.508ed95e.png": "/static/media/Arma.508ed95e.png",
+    "static/media/Caos.72ae4636.jpg": "/static/media/Caos.72ae4636.jpg",
+    "static/media/Cerebro.cdc07e52.jpeg": "/static/media/Cerebro.cdc07e52.jpeg",
+    "static/media/Familia.fb220c01.jpeg": "/static/media/Familia.fb220c01.jpeg",
+    "static/media/FamiliaSmith.f10e5b11.png": "/static/media/FamiliaSmith.f10e5b11.png",
+    "static/media/Guerra.d0b8a7a1.jpg": "/static/media/Guerra.d0b8a7a1.jpg",
+    "static/media/Guerra2.fbab89bf.jpg": "/static/media/Guerra2.fbab89bf.jpg",
+    "static/media/HomemPassaro.e6b42ddf.jpg": "/static/media/HomemPassaro.e6b42ddf.jpg",
+    "static/media/Meeseek.8c18826e.png": "/static/media/Meeseek.8c18826e.png",
+    "static/media/Rick.2c3faf18.jpeg": "/static/media/Rick.2c3faf18.jpeg",
+    "static/media/RickMortySummer.1f88af8c.jpg": "/static/media/RickMortySummer.1f88af8c.jpg",
+    "static/media/RickVibe.ce128ac0.png": "/static/media/RickVibe.ce128ac0.png",
+    "static/media/Rickverso.b2b75ef5.jpg": "/static/media/Rickverso.b2b75ef5.jpg",
+    "static/media/App.css": "/static/media/backgound-space.5d8c646d.png",
+    "static/media/isack.caae8f60.png": "/static/media/isack.caae8f60.png",
+    "static/media/kaio.5de525c2.png": "/static/media/kaio.5de525c2.png",
+    "static/media/logo2.0.81891016.gif": "/static/media/logo2.0.81891016.gif",
+    "static/media/marcelo.7db51bec.png": "/static/media/marcelo.7db51bec.png",
+    "static/media/michele.a8df8ec9.png": "/static/media/michele.a8df8ec9.png",
+    "static/media/nara.0b3825e3.png": "/static/media/nara.0b3825e3.png",
+    "static/media/portaldivisor.f2515348.bin": "/static/media/portaldivisor.f2515348.bin",
+    "static/media/thassio.9766414d.jpg": "/static/media/thassio.9766414d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d9cc21.js",
+    "static/js/2.f1c023c0.chunk.js",
+    "static/css/main.ebdeea3f.chunk.css",
+    "static/js/main.26d44233.chunk.js"
+  ]
+}

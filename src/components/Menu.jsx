@@ -7,7 +7,6 @@ export const Menu = ()=> {
     const toggle = ()=> setclicked(!clicked);
 
     
-
     return(
         <div className='dropdown'>
             <button onClick={()=>{toggle(!clicked)}} className='responsive-btn'>▽</button>

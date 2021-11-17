@@ -1,15 +1,14 @@
 import React, { useEffect } from "react";
-// import { Perfil } from "../components/Perfil";
-import '../styles/Criadores.css'
+import '../styles/Criadores.css';
 
-import Emanuel from "../assets/Perfil/isack.png"
-import Kaio from "../assets/Perfil/kaio.png"
-import Marcelo from "../assets/Perfil/marcelo.png"
-import Nara from "../assets/Perfil/nara.png"
-import Michele from "../assets/Perfil/michele.png"
-import Git from "../assets/Perfil/Git.png"
-import Linkedin from "../assets/Perfil/Linkedin.png"
-import Thassio from "../assets/Perfil/thassio.jpg"
+import Emanuel from "../assets/Perfil/isack.png";
+import Kaio from "../assets/Perfil/kaio.png";
+import Marcelo from "../assets/Perfil/marcelo.png";
+import Nara from "../assets/Perfil/nara.png";
+import Michele from "../assets/Perfil/michele.png";
+import Git from "../assets/Perfil/Git.png";
+import Linkedin from "../assets/Perfil/Linkedin.png";
+import Thassio from "../assets/Perfil/thassio.jpg";
 
 export const Criadores =()=> {
 

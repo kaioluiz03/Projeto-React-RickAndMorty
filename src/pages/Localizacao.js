@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 import Api from "../services/Api";
-import '../styles/Localizacao.css'
+import '../styles/Localizacao.css';
 import Modal from "../components/Modal";
 import axios from "axios";
-import prev from "../assets/prev32px.png"
-import next from "../assets/next32px.png"
+import prev from "../assets/prev32px.png";
+import next from "../assets/next32px.png";
 
 const Localizacao = () => {
     // personagem
@@ -66,7 +66,7 @@ const Localizacao = () => {
         // faz o get em cada url dos personagens
         axios.get(url)
         .then(response => {
-            // essa variavel pega os dados que vem da location url e coloca em um objeto
+            // essa variavel pega os dados que vem da location url e coloca em um objeto 
             const dados = {
                 type: response.data.type,
                 name: response.data.name,
@@ -91,9 +91,6 @@ const Localizacao = () => {
             console.error(err)
         })
     }
-
-    // console.log(dados)
-
     
     return ( 
         <>

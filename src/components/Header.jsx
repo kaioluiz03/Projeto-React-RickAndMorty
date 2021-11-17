@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/Header.css'
+import '../styles/Header.css';
 import gif from '../assets/logo2.0.gif';
 import { NavLink } from "react-router-dom";
 import { Link } from "react-router-dom";

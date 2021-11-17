@@ -81,8 +81,8 @@ export const Personagens = () => {
 
       </div>
       <div className="trocaTela">
-        <button onClick={voltar} ><img src={imgAn} className="pImgIcon" /></button>
-        <button onClick={avanca} ><img src={imgAv} className="pImgIcon" /></button>
+        <button onClick={voltar} ><img src={imgAn} className="pImgIcon" alt='' /></button>
+        <button onClick={avanca} ><img src={imgAv} className="pImgIcon" alt='' /></button>
       </div>
     </>
 

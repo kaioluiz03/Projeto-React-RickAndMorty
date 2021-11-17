@@ -36,7 +36,7 @@ margin: 20px 0 50px 0;
 color: chartreuse;
 font-weight: bold;
 letter-spacing: 5px;
-text-shadow: 0 0 0.5em chartreuse, 0 0 0.5em chartreuse ;
+text-shadow: 0 0 0.5em chartreuse, 0 0 0.5em chartreuse;
 }
 
 @media (max-width: 450px){
