@@ -23,7 +23,7 @@ export const Criadores =()=> {
           
         <Card
             imagem={Emanuel}
-            title="EMANUEL" 
+            title="ISAAC EMANUEL" 
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/manelxd"
@@ -32,7 +32,7 @@ export const Criadores =()=> {
 
         <Card
             imagem={Marcelo}
-            title="MARCELO"
+            title="JOSÉ MARCELO"
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/MarceloSilva05"
@@ -41,7 +41,7 @@ export const Criadores =()=> {
 
         <Card
             imagem={Thassio}
-            title="THASSIO"
+            title="THASSIO FERREIRA"
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/Thassio98"
@@ -50,7 +50,7 @@ export const Criadores =()=> {
 
         <Card
             imagem={Nara}
-            title="NARA"
+            title="INARA OLIVEIRA"
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/inaraoliveira"
@@ -58,7 +58,7 @@ export const Criadores =()=> {
         />
         <Card
             imagem={Kaio}
-            title="KAIO"
+            title="KAIO LUIZ"
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/kaioluiz03"
@@ -66,7 +66,7 @@ export const Criadores =()=> {
         />
         <Card
             imagem={Michele}
-            title="MICHELE"
+            title="MICHELE FRAÇA"
             imgGit={Git}
             imgLinkedin={Linkedin}
             linkGit="https://github.com/miihfranca"
